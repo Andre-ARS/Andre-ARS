@@ -1,6 +1,6 @@
 ### Hi there, I'm André 
 
-## I'm a Student of Full Stack Web Development in [Trybe][trybe]
+## I'm a Student of Full Stack Web Development at [Trybe][trybe]
 
 ### Connect with me:
 <html>
@@ -33,21 +33,6 @@
 ---
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="andres's GitHub Stats" src="https://github-readme-stats.andre-ars.vercel.app/api?username=Andre-ARS&show_icons=true&hide_border=true" />
-
-</details>
 
 [trybe]: https://www.betrybe.com 
 [linkedin]: https://linkedin.com/in/codeSTACKr 
