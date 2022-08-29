@@ -3,8 +3,8 @@
 ## I'm a Student of Full Stack Web Development at [Trybe][trybe]
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andr-ars&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andr-ars&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre-ars&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-ars&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   ##
